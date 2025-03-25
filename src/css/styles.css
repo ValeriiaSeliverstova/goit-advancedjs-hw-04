@@ -140,7 +140,6 @@ ul {
   display: block;
 }
 
-/* HTML: <div class="loader"></div> */
 .loader {
   position: fixed;
   right: 50%;
